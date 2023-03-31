@@ -1,13 +1,18 @@
+@import Models.loginModelObj._
+@import Models.loginModelObj.formLogin
+@(formLogin: Form[LoginUsermodel], postUrl: Call)(implicit request: MessagesRequestHeader)
 @main("Login"){
-    <form method="post" action="">
+    <form method="post" action="@postUrl">
+      @helper.CSRF.formField
         <div class="mb-3">
             <label class="form-label">UserName</label>
             <input type="text" class="form-control" name="userName"> 
           </div>
-
           <div class="mb-3">
             <label class="form-label">password</label>
             <input type="text" class="form-control" name="password"> 
           </div>
+
+          <button type="submit" class="btn btn-primary">Ingresar</button>
     </form>
 }

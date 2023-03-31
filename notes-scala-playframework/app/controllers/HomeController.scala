@@ -24,7 +24,7 @@ class HomeController @Inject()(cc: MessagesControllerComponents) extends Message
    * a path of `/`.
    */
   def index() = Action { implicit request: Request[AnyContent] =>
-    Ok(views.html.index())
+     Redirect("/login")
   }
   
 }

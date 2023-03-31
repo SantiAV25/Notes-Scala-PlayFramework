@@ -62,28 +62,6 @@ class RegisterController @Inject()(cc: MessagesControllerComponents) extends Mes
   }
 }
 
-def selecData(): Unit ={
-  database.withConnection{conn =>
-    val  statement = conn.prepareStatement(
-      """
-      |SELECT * FROM public."Users"
-      """.stripMargin
-    )
-    val resulSet = statement.executeQuery()
-    while(resulSet.next()){
-      val userId = resultSet.getInt("userId")
-      val userName = resultSet.getString("userName")
-      val password = resultSet.getString("password")
-      val email = resultSet.getString("email")
-      val nombre = resultSet.getString("nombre")
-      val apellido = resultSet.getString("apellido")
-      println(s"$userId $userName $password $email $nombre $apellido")
 
-    }
-    resultSet.close()
-    statement.close()
-
-  }
-}
 
 }

@@ -24,3 +24,265 @@ WARNING: Unmatched cancel notification for request id 250
 2023.03.29 17:20:01 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
 2023.03.29 17:22:42 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
 2023.03.29 17:24:12 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.29 17:25:09 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.29 17:25:11 INFO  Shutting down server
+2023.03.29 17:25:11 INFO  shutting down Metals
+2023.03.29 17:25:11 INFO  Exiting server
+2023.03.30 22:54:49 INFO  Started: Metals version 0.11.11 in workspace 'C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/agred/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.30 22:54:50 INFO  time: initialize in 0.53s
+2023.03.30 22:54:52 WARN  Build server is not auto-connectable.
+2023.03.30 22:54:52 WARN  no build tool detected in workspace 'C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.03.30 22:54:52 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 22:54:55 INFO  no build target found for C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.30 22:54:57 INFO  time: code lens generation in 4.93s
+2023.03.30 22:55:22 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:06:18 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:06:19 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:06:51 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:06:52 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:10:33 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:10:33 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:10:43 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:10:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:10:43 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:10:55 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:12:03 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:12:03 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:12:13 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:12:40 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:18:19 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:18:25 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.30 23:18:28 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\HomeController.scala
+2023.03.30 23:18:54 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.30 23:18:55 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:19:02 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.30 23:19:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:19:41 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:20:04 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:20:11 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:20:24 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\HomeController.scala
+mar. 30, 2023 11:23:32 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 993
+2023.03.30 23:25:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:25:21 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:26:46 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:27:00 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:27:59 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:28:19 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:28:29 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:28:48 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:28:53 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:29:03 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:29:31 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:29:31 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:29:34 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:29:40 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:29:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:30:21 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:30:53 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:30:56 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:31:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:31:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:31:35 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:32:05 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:32:05 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:32:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:33:10 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:33:11 WARN  Using indexes to guess the definition of register
+2023.03.30 23:33:11 WARN  Using indexes to guess the definition of authUser
+2023.03.30 23:34:04 WARN  Using indexes to guess the definition of authUser
+2023.03.30 23:34:04 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:34:04 WARN  Using indexes to guess the definition of formLogin
+2023.03.30 23:34:08 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:35:34 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:35:49 WARN  Using indexes to guess the definition of formLogin
+2023.03.30 23:36:43 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:36:46 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:37:37 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:37:49 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:38:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:38:29 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:38:29 WARN  Using indexes to guess the definition of LoginUsermodel
+2023.03.30 23:38:57 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\DatabaseController.scala
+2023.03.30 23:39:03 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:39:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:40:07 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:40:24 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:40:24 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:40:26 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:40:27 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023.03.30 23:40:30 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:40:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:40:55 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:41:09 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:41:10 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:41:11 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:41:11 WARN  Using indexes to guess the definition of formRegister
+2023.03.30 23:41:11 WARN  Using indexes to guess the definition of register
+2023.03.30 23:41:26 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:42:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:42:32 WARN  Using indexes to guess the definition of formLogin
+2023.03.30 23:42:45 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:42:47 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:42:47 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.30 23:43:00 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:43:01 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.30 23:43:04 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:43:04 WARN  Using indexes to guess the definition of RegisterController
+2023.03.30 23:43:04 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:43:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:46:54 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:46:59 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+mar. 30, 2023 11:47:21 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3152
+2023.03.30 23:47:22 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:47:32 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:51:59 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+mar. 30, 2023 11:52:57 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3977
+2023.03.30 23:53:32 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:54:24 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:54:37 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:54:49 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.30 23:55:13 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:55:40 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:56:10 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:56:34 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:56:58 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.30 23:58:40 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+Exception in thread "pool-3-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023.03.30 23:58:40 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:00:38 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\HomeController.scala
+2023.03.31 00:01:26 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\HomeController.scala
+2023.03.31 00:18:35 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\DatabaseController.scala
+2023.03.31 00:18:39 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 00:18:43 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\DatabaseController.scala
+2023.03.31 00:20:46 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:20:46 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:21:07 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:21:17 WARN  Using indexes to guess the definition of RegisterController
+2023.03.31 00:21:17 WARN  Using indexes to guess the definition of createUser
+2023.03.31 00:21:31 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:21:36 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+mar. 31, 2023 12:22:03 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4940
+2023.03.31 00:22:38 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:22:45 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:22:55 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:23:04 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:27:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:28:51 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:29:08 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:29:26 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:29:27 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:29:56 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:29:57 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:30:23 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:32:10 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:32:10 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:33:17 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:33:18 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+mar. 31, 2023 12:34:39 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5974
+2023.03.31 00:34:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:35:54 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:37:44 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:38:32 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:38:33 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:40:54 WARN  Using indexes to guess the definition of index
+2023.03.31 00:40:54 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:40:55 WARN  Using indexes to guess the definition of index
+2023.03.31 00:41:20 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:41:22 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:41:42 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:41:59 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:42:09 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:42:09 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:44:45 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:44:54 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:44:55 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:44:55 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:45:09 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:45:10 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:45:11 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:45:35 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:50:27 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\LoginModel.scala
+2023.03.31 00:55:37 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:56:28 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 00:56:29 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.31 00:56:29 WARN  Using indexes to guess the definition of postUrl
+2023.03.31 00:56:30 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\UserModel.scala
+2023.03.31 00:57:49 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:57:49 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 00:57:49 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 01:04:09 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:04:23 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:04:24 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:04:46 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:13:08 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+mar. 31, 2023 1:14:35 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7474
+mar. 31, 2023 1:15:07 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7523
+2023.03.31 01:15:29 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:15:54 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:15:55 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:15:56 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:15:59 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:15:59 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:16:00 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:16:15 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:16:16 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:16:39 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:17:35 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\LoginController.scala
+2023.03.31 01:19:42 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:23:12 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:23:15 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:23:21 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:24:22 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:24:56 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:25:58 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:26:17 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:27:59 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\Models\NoteModel.scala
+2023.03.31 01:28:00 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\RegisterController.scala
+2023.03.31 01:32:58 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:33:11 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\DatabaseController.scala
+2023.03.31 01:33:16 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:34:28 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+Exception in thread "pool-3-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023.03.31 01:34:28 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:34:35 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:34:56 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:35:24 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:35:50 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:35:51 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:37:35 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:37:36 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:39:14 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:39:15 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
+2023.03.31 01:40:19 WARN  no build target for: C:\Users\agred\OneDrive\Escritorio\Vacations proyects\Sofware engineering repositoy\Notes-Scala-PlayFramework\notes-scala-playframework\app\controllers\NoteController.scala
