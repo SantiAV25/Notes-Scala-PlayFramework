@@ -11,5 +11,6 @@ GET  /login    controllers.LoginController.login
 POST /login    controllers.LoginController.authUser
 GET  /logout    controllers.LoginController.logout
 GET /notes     controllers.NoteController.notes
+POST /crearNota controllers.NoteController.createNote
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)

@@ -1,0 +1,31 @@
+@import Models.noteModel
+@import Models.noteModelObj._
+@import Models.noteModelObj.DataNotemodel
+@(notes: Seq[noteModel], formNotes: Form[DataNotemodel],userId: String)(implicit request: MessagesRequestHeader)
+@main("LoggedSession"){
+    @for(n <- notes){
+        <div>
+            <p>@n.noteName</p>
+            <p>@n.bodyNote</p>
+
+        </div>
+    }
+    <form method="post" action="/crearNota">
+        @helper.CSRF.formField
+          <div class="mb-3">
+              <label class="form-label">Nombre De La Nota</label>
+              <input type="text" class="form-control" name="noteName"> 
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Valor: </label>
+              <input type="text" class="form-control" name="bodyNote"> 
+            </div>
+  
+            <button type="submit" class="btn btn-primary">Crear Nota</button>
+      </form>
+    <a href="/">Editar Nota</a>
+    <a href="/">Eliminar Nota</a>
+    <a class="btn btn-primary" href="/logout">Salir</a>
+    <h1>Welcome to the notes page, user with ID @userId!</h1>
+
+}
